@@ -22,3 +22,5 @@ if button:
         result = fnum / snum
         
 st.success(f"Result:{result}")
+st.snow()
+st.balloons()
